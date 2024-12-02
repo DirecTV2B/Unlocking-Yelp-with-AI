@@ -80,7 +80,7 @@ We welcome contributions! Feel free to fork this repository, create a branch, an
 
 ## 📧 Contact
 
-If you have any questions or feedback, please feel free to reach out via [GitHub Issues](https://github.com/your-username/Unlocking-Yelp-with-AI/issues).
+If you have any questions or feedback, please feel free to reach out via email victoriiavu@g.ucla.edu
 
 ## ⭐ Acknowledgments
 
