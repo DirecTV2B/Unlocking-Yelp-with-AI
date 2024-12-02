@@ -1,0 +1,17 @@
+# Data Manipulation 
+Pandas
+GeoPandas
+Numpy
+Shapely
+Json
+
+# Machine learning
+Scikit-learn
+
+# Plotting and Visualizations
+Matplotlib
+Seaborn
+
+#Geo-visualization
+Folium
+
